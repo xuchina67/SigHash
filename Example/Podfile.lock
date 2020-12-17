@@ -1,0 +1,16 @@
+PODS:
+  - SigHash (0.1.0)
+
+DEPENDENCIES:
+  - SigHash (from `../`)
+
+EXTERNAL SOURCES:
+  SigHash:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SigHash: eac74b3973dc6e4fb9d8a5bcd71b466602a8d263
+
+PODFILE CHECKSUM: f718623d12555f80c7968090e39571ee174abe74
+
+COCOAPODS: 1.10.0

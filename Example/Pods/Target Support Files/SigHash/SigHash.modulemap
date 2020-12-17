@@ -1,0 +1,6 @@
+framework module SigHash {
+  umbrella header "SigHash-umbrella.h"
+
+  export *
+  module * { export * }
+}

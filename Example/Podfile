@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SigHash_Tests' do
+  pod 'SigHash', :path => '../'
+  
+  
+end
